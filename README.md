@@ -19,7 +19,7 @@ This app supports basic arithmetic operations with a clean, modern interface.
 
 2. **Install dependencies**
     ```bash
-    pip install -r requirements.txt
+    pip install flask
     ```
 
 3. **Run the app**
