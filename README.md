@@ -1,48 +1,37 @@
-# Flask Calculator
+# Flask Calculator (Modern UI)
 
-This is a basic web calculator built using Flask, a Python web framework. The application allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+A sleek and simple web-based calculator built with Flask.  
+This app supports basic arithmetic operations with a clean, modern interface.
 
-## Features
+## ✨ Features
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division** (with divide-by-zero handling)
+- Modern responsive design
 
-- **Addition:** Performs the addition of two numbers.
-- **Subtraction:** Performs the subtraction of the second number from the first.
-- **Multiplication:** Performs the multiplication of two numbers.
-- **Division:** Performs the division of the first number by the second (handling division by zero).
-
-## How to Use
-
-1. Clone the repository to your local machine:
-
-    ```
+## 🚀 Installation & Usage
+1. **Clone the repository**
+    ```bash
     git clone https://github.com/your-username/flask-calculator.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```
     cd flask-calculator
     ```
 
-3. Install the required dependencies:
-
-    ```
+2. **Install dependencies**
+    ```bash
     pip install -r requirements.txt
     ```
 
-4. Run the Flask application:
-
-    ```
+3. **Run the app**
+    ```bash
     python app.py
     ```
 
-5. Open your web browser and go to [http://localhost:5000](http://localhost:5000) to access the calculator.
+4. **Open in browser**  
+   Visit [http://localhost:5000](http://localhost:5000)
 
-## Usage
 
-- Enter the first number in the "Number 1" input field.
-- Enter the second number in the "Number 2" input field.
-- Select the desired operation from the dropdown menu.
-- Click the "Calculate" button to see the result.
+
 
 ## Contributing
 
